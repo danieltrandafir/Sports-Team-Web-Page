@@ -1,7 +1,7 @@
-# Project Name
+# Sports Team Home Page
 
 > Website Home page.
-> To see a Live demo click [_here_](https://github.com/danieltrandafir/Sports-Team-Web-Page.git). <!-- If you have the project hosted somewhere, include the link here. -->
+> To see a Live demo click [_here_](https://danieltrandafir.github.io/Sports-Team-Web-Page/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 
