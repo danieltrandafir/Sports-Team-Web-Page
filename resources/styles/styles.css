@@ -11,6 +11,7 @@ body {
     margin: 0;
     display: grid;
     grid-template-columns: repeat(6, 1fr) ;
+    
 }
 
 /* social grid header*/
@@ -150,9 +151,9 @@ header {
     text-transform: uppercase;
 }
 .banner-info p{
-	color: black;
-    text-shadow: 1px 1px white;
-    font-size: 16px;
+	color:#ff9900;
+    text-shadow: 1px 1px black;
+    font-size: 20px;
     font-weight: 900;
     line-height: 1.8em;
     margin: 0 auto;
@@ -417,7 +418,7 @@ section {
 
 .player-img img {
     height: 280px;
-    max-width: 240px;
+    width: 250px;
     margin-bottom: 0;
     padding-bottom: 0;
 }
@@ -428,6 +429,7 @@ section {
 
 .players .player-text {
     display: flexbox;
+    width: 250px;
     background-color: #2f2f2f;
     justify-items: center;
     padding-top: 0;
